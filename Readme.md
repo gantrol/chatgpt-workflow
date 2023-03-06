@@ -13,7 +13,7 @@
 
 ### 要做什么？
 
-- 积累高质量数据，不限语言
+- 积累高质量数据与模型，不限语言
 - 掌握各类验证的方法，最好做到交叉验证
 - 会一点点训练
 - 会面向api、数据库、模型 编程
@@ -38,7 +38,7 @@
 - [gantrol/Bing-Chat-Saver: Save Bing chat with PNG，JPG、JSON and Markdown (github.com)](https://github.com/gantrol/Bing-Chat-Saver)
 - [gantrol/ChatGPT-exporter: A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link (github.com)](https://github.com/gantrol/ChatGPT-exporter)
 
-### 写作
+### 用一句话需求来写作
 
 [叶慈风格的诗.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E5%8F%B6%E6%85%88%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%AF%97.md)
 
@@ -55,6 +55,16 @@
 ### 编辑
 
 > 上面这些链接，就是必应处理的：[必应处理文本.md](edit\examples\bing\必应处理文本.md)
+
+### 迭代式写作·议论文
+
+所有文件放[一个目录](edit\examples\bing)
+
+1. 人说明主旨、标题，让机器列大纲；
+2. 机器的大纲基本是引言、正文、结论三部分，让机器逐部分写作；
+3. 由于必应八轮对话的限制，以上至少占四轮，剩下四轮仅揪出错误较大的部分，或让补充论据素材；
+4. 人写一份，如果卡文，回到步骤1，并加上已写的文章。
+
 
 ## 工作流分析
 
