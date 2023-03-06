@@ -42,25 +42,27 @@
 
 ### 用一句话需求来写作
 
-[叶慈风格的诗.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E5%8F%B6%E6%85%88%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%AF%97.md)
+[叶慈风格的诗.md](./writing/examples/chatgpt/%E5%8F%B6%E6%85%88%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%AF%97.md)
 
-[李四藏头古诗.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E6%9D%8E%E5%9B%9B%E8%97%8F%E5%A4%B4%E5%8F%A4%E8%AF%97.md)
+[李四藏头古诗.md](./writing/examples/chatgpt/%E6%9D%8E%E5%9B%9B%E8%97%8F%E5%A4%B4%E5%8F%A4%E8%AF%97.md)
 
-[模仿《道德经》的方式写：不要加班.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E6%A8%A1%E4%BB%BF%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E7%9A%84%E6%96%B9%E5%BC%8F%E5%86%99%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%8A%A0%E7%8F%AD.md)
+[模仿《道德经》的方式写：不要加班.md](./writing/examples/chatgpt/%E6%A8%A1%E4%BB%BF%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E7%9A%84%E6%96%B9%E5%BC%8F%E5%86%99%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%8A%A0%E7%8F%AD.md)
 
-[相声《怪治病》.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E7%9B%B8%E5%A3%B0%E3%80%8A%E6%80%AA%E6%B2%BB%E7%97%85%E3%80%8B.md)
+[相声《怪治病》.md](./writing/examples/chatgpt/%E7%9B%B8%E5%A3%B0%E3%80%8A%E6%80%AA%E6%B2%BB%E7%97%85%E3%80%8B.md)
 
-[记叙文.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E8%AE%B0%E5%8F%99%E6%96%87.md)
+[记叙文.md](./writing/examples/chatgpt/%E8%AE%B0%E5%8F%99%E6%96%87.md)
 
-[起诉状.md](.%5Cwriting%5Cexamples%5Cchatgpt%5C%E8%B5%B7%E8%AF%89%E7%8A%B6.md)
+[起诉状.md](./writing/examples/chatgpt/%E8%B5%B7%E8%AF%89%E7%8A%B6.md)
 
 ### 编辑
 
-> 上面这些链接，就是必应处理的：[必应处理文本.md](edit\examples\bing\必应处理文本.md)
+> 上面这些链接，就是必应处理的：[必应处理文本.md](edit/examples/bing/必应处理文本.md)
 
 ### 迭代式写作·议论文
 
-所有文件放[一个目录](edit\examples\bing)
+> 《[不完美出发](writing/examples/bing/不完美出发3-人为改写.md)》这篇文章我想写一个多月了，直到今天早上，还只有“标题：不完美出发”，以及“正文：月圆之后，便是月缺”。不得已，跟新必应讨论一下怎么写吧。完整经过放到github。中途还干了不少别的事情。
+
+所有过程文件放[一个目录](writing/examples/bing)，大体上是这么个流程：
 
 1. 人说明主旨、标题，让机器列大纲；
 2. 机器的大纲基本是引言、正文、结论三部分，让机器逐部分写作；
